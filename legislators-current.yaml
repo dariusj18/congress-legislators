@@ -157,10 +157,9 @@
     address: 511 Hart Senate Office Building Washington DC 20510
     phone: 202-224-3441
     fax: 202-228-0514
-    contact_form: http://www.cantwell.senate.gov/public/index.cfm/email-maria
+    contact_form: https://www.cantwell.senate.gov/contact
     office: 511 Hart Senate Office Building
     state_rank: junior
-    rss_url: http://www.cantwell.senate.gov/public/index.cfm/rss/feed
 - id:
     bioguide: C000141
     thomas: '00174'
